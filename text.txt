@@ -1,0 +1,2 @@
+En este repositorio se pondrán todos los elementos necesarios para la creación de aplicaciones web
+de visión por computadora
